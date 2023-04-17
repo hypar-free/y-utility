@@ -1,6 +1,7 @@
-dist
-.vscode
-coverage
+*.test.js
+tsconfig.json
+rollup.config.js
+.nyc_output
+.git
 node_modules
-*.d.ts
-*.d.ts.map
+.travis.yml
